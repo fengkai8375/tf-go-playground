@@ -1,4 +1,4 @@
-这是一个Tensorflow+Golang的练习场。
+这是一个Tensorflow+Golang的playground，包含一些入门的示例程序。
 
 示例程序
 
